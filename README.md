@@ -2,8 +2,7 @@
 
 I'm Giuseppe, an **M.Sc. Student in AI & Robotics @ La Sapienza | Rome, Italy**
 
-I am a motivated engineer passionate about: **Computer Vision, Brain-Computer Interfaces and Generative AI.**
+I am a motivated engineer passionate about: **Computer Vision, Recommender System and Generative AI.**
 
-* 💬 **Ask me about:** Deep Learning, EEG Decoding and Zero-Shot Learning.
 * 💻 **Languages:** Python, C, C++, SQL, JavaScript, MATLAB.
 * 🧠 **AI & ML:** PyTorch, TensorFlow, Scikit-Learn.
